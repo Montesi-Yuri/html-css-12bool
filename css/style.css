@@ -1,11 +1,44 @@
-/* 
-GENERAL
-*/
+/************************** 
+    MAIN
+**************************/
 
-.container{
-    max-width: 1200px;
-    margin: 0 auto;
+
+.bg-blue{
+    background-color: #006CFA;
 }
+
+.bg-green{
+    background-color: #00E165;
+}
+
+.w-border{
+    border: 1px solid white;
+}
+
+.blue-border{
+    border: 1px solid #006CFA;
+}
+
+.pad-20{
+    padding: 20px;
+}
+
+.pad-10{
+    padding: 10px;
+}
+
+.w-text{
+    color: white;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+
+
+
 
 
 
